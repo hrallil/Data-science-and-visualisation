@@ -33,6 +33,7 @@ Relatively speaking, this book is advanced and a bit comprehensive. It mixes tec
 We will use the following software for this course:
 
 `Anaconda Individual Edition` (https://www.anaconda.com/products/individual) [Jupyter Notebook included. For Data Science :=)]
+
 `Python 3.9.0` (https://www.python.org/downloads/) [Only for pure Python programming]
 
 
